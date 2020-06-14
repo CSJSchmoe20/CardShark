@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cardshark:items/card_base",
+    "layer1": "cardshark:items/red_seven",
+    "layer2": "cardshark:items/diamonds"
+  }
+}
